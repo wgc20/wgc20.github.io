@@ -25,10 +25,10 @@ author:
   # Biographic information
   avatar           : "gaochen.jpg"
   name             : "Gaochen"
-  pronouns         : # example: "she/her"  
+  pronouns         : “he/him”# example: "she/her"  
   bio              : "AI + Academy"
-  location         : "Earth"
-  employer         : "infix.ai"
+  location         : #"Earth"
+  employer         : "infix.ai & polyu"
   uri              : # URL
   email            : "gaochen.thu@gmail.com" 
 
