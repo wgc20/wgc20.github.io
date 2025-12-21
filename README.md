@@ -9,7 +9,7 @@ I finished my first Postdoc from Department of Computer Science and Technology a
 
 ## Research Interests
 
-MoE-LLMs pre-training and AI+Academy
+MoE-LLMs Pre-training and AI+Academy
 
 
 
