@@ -25,7 +25,7 @@ author:
   # Biographic information
   avatar           : "gaochen.jpg"
   name             : "Gaochen WU"
-  pronouns         : “he/him” # example: "she/her"  
+  pronouns         : # “he/him” # example: "she/her"  
   bio              : "MoE-LLMs Pre-training and AI + Academy"
   location         : #"Earth"
   employer         : "infix.ai/PolyU"
