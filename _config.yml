@@ -23,7 +23,7 @@ repository               : "wgc20/wgc20.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "gaochen.jpg"
+  avatar           : "images/gaochen.jpg"
   name             : "Gaochen"
   pronouns         : “he/him”# example: "she/her"  
   bio              : "AI + Academy"
