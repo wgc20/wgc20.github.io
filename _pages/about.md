@@ -1,13 +1,13 @@
 ---
 permalink: /
-title: "About Me"
+title: ""
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-
+## About Me
 
 I am now a Postdoc on AI+Academy in Department of Computer and Mathematical Sciences of Hong Kong Polytechnic University(PolyU),fortunately supervised by respected and renowned Prof. Hongxia Yang. I am also a technical staff focusing on MoE-LLMs Pre-training at infix.ai.
 
