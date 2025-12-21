@@ -9,8 +9,7 @@ I finished my first Postdoc from Department of Computer Science and Technology a
 
 ## Research Interests
 
-1. MoE-LLMs pre-training in cost-effective and efficient way at infix.ai
-2. AI+Academy in Department of Computer and Mathematical Sciences at PolyU
+MoE-LLMs pre-training and AI+Academy
 
 
 
