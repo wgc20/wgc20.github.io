@@ -16,6 +16,6 @@ I completed my first Postdoc in Department of Computer Science and Technology at
 
 MoE-LLMs Pre-training and AI+Academy
 
-### Contact Information
+### Contact
 
 Email：gaochen.thu@gmail.com
