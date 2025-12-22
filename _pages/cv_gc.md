@@ -14,3 +14,5 @@ redirect_from:
 ## CV
 
 Please feel free to email me if you would like to find out my personal CV.
+
+Email: gaochen.thu@gmail.com
