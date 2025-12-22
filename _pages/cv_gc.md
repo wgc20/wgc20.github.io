@@ -9,6 +9,5 @@ redirect_from:
 
 {% include base_path %}
 
-## CV
 
 Please email me if you would like to find out my personal CV.
