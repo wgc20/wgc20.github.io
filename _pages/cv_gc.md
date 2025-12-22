@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "CV"
+title: ""
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -9,5 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
+
+
+## CV
 
 Please feel free to email me if you would like to find out my personal CV.
