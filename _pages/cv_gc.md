@@ -10,4 +10,4 @@ redirect_from:
 {% include base_path %}
 
 
-Please email me if you would like to find out my personal CV.
+Please feel free to email me if you would like to find out my personal CV.
